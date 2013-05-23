@@ -1,8 +1,7 @@
 /**
 
 	Validation
-	By: Hot Project Consulting - Leland Cope
-	Copyright 2012 Hot Project Consulting. Must get permission to use.
+	By: Leland Cope @lelandcope
 	
 	Ver. 1.5
 		Added a helper function so you can call multiple at once. This is great if you have more then one form or section that needs validation
