@@ -83,6 +83,6 @@ It looks for an attribute called `validatewith` which is the id of the field it 
     *    - http://www.gnu.org/copyleft/gpl.html
     
 
-Feel Free to branch and contribute to this validation class. Any recomendations and contributions are welcomed.
+Feel free to branch and contribute to this validation plugin. Any recomendations and contributions are welcomed.
 
 
