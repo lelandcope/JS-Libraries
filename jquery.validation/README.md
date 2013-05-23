@@ -10,6 +10,12 @@ Validation is a jQuery funtion that allows you to validate a form. It somply ret
 ### Usage
 You just call the `validate()` on your form and it will search for any items with a class of `validate`.
 
+    if(!jQuery(element).validate()) {
+      // Let the user know there was a problem
+      // There will be a class added to the input or select wrapper called input-error or select-error 
+      // so you can show the user there was an error
+    }
+
 Types of validation include 
 
 * string
@@ -20,19 +26,19 @@ Types of validation include
 * cc (Credit Card)
 * number
 
-## String
+#### String
   - Optional Attributes include 
     * default-text - Allows you to set the default text. If the value of the input is == "" or is == the default-text attriobute it will fail
 
-## Email
+#### Email
 
-## Phone
+#### Phone
 
-## Password
+#### Password
   - It looks for an attribute called `validatewith` which is the id of the field it should be comparing with.
 
-## Select
+#### Select
 
-## CC (Credit Card)
+#### CC (Credit Card)
 
-## Number
+#### Number
