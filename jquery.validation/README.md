@@ -73,3 +73,16 @@ It looks for an attribute called `validatewith` which is the id of the field it 
     <span>
         <input type="text" class="validate" validation="number" />
     </span>
+    
+    
+### License
+    * Copyright (c) 2012 Leland Cope @lelandcope
+    * -------------------------------------------------------
+    * Dual licensed under the MIT and GPL licenses.
+    *    - http://www.opensource.org/licenses/mit-license.php
+    *    - http://www.gnu.org/copyleft/gpl.html
+    
+
+Feel Free to branch and contribute to this validation class. Any recomendations and contributions are welcomed.
+
+
