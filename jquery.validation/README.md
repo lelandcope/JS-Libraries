@@ -28,7 +28,7 @@ You just call the `validate()` on your form and it will search for any items wit
 
 #### String
 Optional Attributes include 
-default-text - Allows you to set the default text. If the value of the input is == "" or is == the default-text attriobute it will fail.
+default-text - Allows you to set the default text. If the value of the input is == "" or is == the default-text attribute it will fail.
 
     <span>
         <input type="text" class="validate" value="Enter Name" default-text="Enter Name" validation="string" />
