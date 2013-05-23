@@ -4,7 +4,7 @@ Validation
 Current Version: 1.5
 
 ### Description
-Validation is a jQuery funtion that allows you to validate a form. It somply returns a true or false if it passes or fails and adds a class called input-error or select-error to its parent wrapper.
+Validation is a jQuery funtion that allows you to validate a form. It simply returns a true or false if it passes or fails and adds a class called input-error or select-error to its parent wrapper.
 
 
 ### Usage
