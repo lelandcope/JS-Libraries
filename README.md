@@ -13,7 +13,7 @@ This repo contains various jQuery Plugins that I have written. Some are ready fo
 * Smart Input
 * Validation
 
-### Expermental
+### Experimental
 
 * Heat Map
 
