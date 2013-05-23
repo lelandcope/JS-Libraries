@@ -1,7 +1,7 @@
 JS Libraries
 ============
 
-### By Leland Cope
+### By Leland Cope @lelandcope
 
 This repo contains various jQuery Plugins that I have written. Some are ready for production use others are still expermental.
 
@@ -22,7 +22,7 @@ This repo contains various jQuery Plugins that I have written. Some are ready fo
 
 Unless otherwise specified within any of the plugins, you can assume the following license:
 
-    * Copyright (c) 2012 Leland Cope
+    * Copyright (c) 2012 Leland Cope @lelandcope
     * -------------------------------------------------------
     * Dual licensed under the MIT and GPL licenses.
     *    - http://www.opensource.org/licenses/mit-license.php
