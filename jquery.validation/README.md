@@ -30,9 +30,10 @@ You just call the `validate()` on your form and it will search for any items wit
   - Optional Attributes include 
     * default-text - Allows you to set the default text. If the value of the input is == "" or is == the default-text attriobute it will fail.
 
-        <span>
-            <input type="text" class="validate" value="Enter Name" default-text="Enter Name" validation="string" />
-        </span>
+
+    <span>
+        <input type="text" class="validate" value="Enter Name" default-text="Enter Name" validation="string" />
+    </span>
 
 #### Email
 
@@ -42,13 +43,16 @@ You just call the `validate()` on your form and it will search for any items wit
 
 #### Phone
     - This will validate any form of a valid phone number ( 5551234567, (555) 123-4567, 1(800) 123-4567 .....) 
-    
+
+
+
     <span>
         <input type="text" class="validate" validation="phone" />
     </span>
 
 #### Password
   - It looks for an attribute called `validatewith` which is the id of the field it should be comparing with.
+
 
     <span>
         <input type="text" class="validate" validatewith="confirm-password" validation="password" />
