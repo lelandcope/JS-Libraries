@@ -1,0 +1,2 @@
+jQuery Smart Input
+============
